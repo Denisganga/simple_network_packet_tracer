@@ -1,6 +1,6 @@
-# Simple Network Packet Tracer Project
+# Network Packet Tracer Project That Integrates IOT
 
-Welcome to the Simple Network Packet Tracer project! This project i made it for fun, i just like tech. This is a home network integrated with Internet of Things (IoT) devices. You can control various aspects of your home, such as lighting turn on or off the home lights, locking the door or openning it, fan speed either low,medium or high, window status i.e opening or closing, and more, all from a tablet interface.
+Welcome to the Network Packet Tracer project! This project can be acceased using the CISCO packet tracer, i just like tech. This is a home network integrated with Internet of Things (IoT) devices. You can control various aspects of your home, such as lighting turn on or off the home lights, locking the door or openning it, fan speed either low,medium or high, window status i.e opening or closing, and more, all from a tablet interface.
 
 ## Overview
 
